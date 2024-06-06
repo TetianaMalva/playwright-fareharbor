@@ -44,11 +44,11 @@ npx playwright test
 ```typescript
 npx playwright show-report
 ```
-![alt text] (https://github.com/TetianaMalva/playwright-fareharbor/blob/main/wiki/HTML%20report_test_example.png)
+![screenshot] (https://raw.githubusercontent.com/TetianaMalva/playwright-fareharbor/main/wiki/HTML%20report_test_example.png)
 
 Example of test report:
 
-![alt text] (https://github.com/TetianaMalva/playwright-fareharbor/blob/main/wiki/tests_report_example.png) 
+![screenshot] (https://raw.githubusercontent.com/TetianaMalva/playwright-fareharbor/main/wiki/tests_report_example.png) 
 
 ### Project status
 This project currently is not final.
