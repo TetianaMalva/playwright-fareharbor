@@ -2,11 +2,12 @@
 
 ### Description
 
-This project contains three UI tests for the [FareHarbor](https://fareharbor.com/) web application.
+This project contains end-to-end (E2E) tests for the fareharbor.com web application, comparing Cypress and Playwright.
+https://github.com/TetianaMalva/cypress-fareharbor
 
 ### Scope
 
-This demo includes three UI tests that should successfully pass in three different browsers when executed.
+This demo includes three basic automation tests that exclusively run in Chrome.
 
 ### Tools
 
@@ -44,11 +45,11 @@ npx playwright test
 ```typescript
 npx playwright show-report
 ```
-![alt text](https://raw.githubusercontent.com/TetianaMalva/playwright-fareharbor/main/wiki/HTML%20report_test_example.png)
+![alt text](https://raw.githubusercontent.com/TetianaMalva/playwright-fareharbor/main/wiki/only_Chrome_HTML%20report_test_example.png)
 
 Example of test report:
 
-![alt text](https://raw.githubusercontent.com/TetianaMalva/playwright-fareharbor/main/wiki/tests_report_example.png) 
+![alt text](https://raw.githubusercontent.com/TetianaMalva/playwright-fareharbor/main/wiki/only_Chrome_tests_report_example.png) 
 
 ### Project status
 This project currently is not final.
